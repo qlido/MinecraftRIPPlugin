@@ -1,0 +1,4 @@
+name: ripPlugin
+version: '${version}'
+main: com.qlido.ripplugin.RipPlugin
+api-version: '1.20'
